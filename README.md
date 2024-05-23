@@ -13,6 +13,9 @@ Todos os artefatos neste teste de utilização de IA generativa foi utilizando o
 
 ## 🚀 Resultados
 Neste pequeno teste, foi gerado um artefato com IA generativa para exemplificar os tipos criados, livro, apresentação e Videos
+Criar este e-book, video e imagens foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+
+
 
 ## 💭 Reflexão (Opcional)
 A inteligência artificial (IA) se destaca em diversas áreas, mas criar algo "natty" - algo que seja genuinamente natural, autêntico e indistinguível do que é feito por humanos - ainda representa um grande desafio. Diversos fatores contribuem para essa dificuldade:
