@@ -4,12 +4,13 @@
 O projeto é uma lista de soluções geradas em IA com o intuito de ensinar sobre IA generativas a comunidade
 
 ## 🤖 Tecnologias Utilizadas
-#Gemini
-#StarryAI
-#Gamma.app
+#IA Generativa Gemini para criação do tutorial para ensino de IA generativa.
+#IA Generativa StarryAI para criação das imagens
+#IA Generativa Gamma.app para criação da apresentação
+#IA Generativa veed para criação do video de apresentação sobre IA.
 
 ## 🧐 Processo de Criação
-Todos os artefatos neste teste de utilização de IA generativa foi utilizando o promt adicionando a entrada de dados.
+Todos os artefatos neste teste de utilização de IA generativa foi utilizando o promt adicionando a entrada de dados a cerca sobre o tutorial de IA generativa.
 
 ## 🚀 Resultados
 Neste pequeno teste, foi gerado um artefato com IA generativa para exemplificar os tipos criados, livro, apresentação e Videos
