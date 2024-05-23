@@ -1,51 +1,39 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IA Expert
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto é uma lista de soluções geradas em IA com o intuito de ensinar sobre IA generativas a comunidade
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+#Gemini
+#StarryAI
+#Gamma.app
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Todos os artefatos neste teste de utilização de IA generativa foi utilizando o promt adicionando a entrada de dados.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Neste pequeno teste, foi gerado um artefato com IA generativa para exemplificar os tipos criados, livro, apresentação e Videos
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+A inteligência artificial (IA) se destaca em diversas áreas, mas criar algo "natty" - algo que seja genuinamente natural, autêntico e indistinguível do que é feito por humanos - ainda representa um grande desafio. Diversos fatores contribuem para essa dificuldade:
 
-### Exemplos e Insigths
+1. Compreendendo a Nuance Humana:
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+A linguagem humana é complexa e rica em nuances, repleta de sutilezas, sarcasmo, ironia e humor que muitas vezes se perdem na tradução para a IA.
+Expressões idiomáticas, gírias e referências culturais também representam desafios para a IA, pois exigem um profundo conhecimento do contexto social e cultural.
+A criatividade humana, que gera ideias originais e inovadoras, ainda é difícil de replicar por algoritmos, limitando a capacidade da IA de criar algo realmente "natty".
+2. Superando a Falta de Dados:
 
-## Links Interessantes
+Treinar modelos de IA com dados "natty" pode ser um desafio, pois nem sempre há uma abundância de exemplos disponíveis.
+A qualidade e a diversidade dos dados também são cruciais para o sucesso da IA, pois modelos treinados com dados tendenciosos ou incompletos podem gerar resultados artificiais ou ofensivos.
+A coleta e a rotulagem de dados "natty" podem ser processos trabalhosos e demorados, exigindo expertise humana e recursos consideráveis.
+3. Avaliando a Subjetividade:
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+O que torna algo "natty" é subjetivo e depende de fatores como cultura, contexto e preferências individuais.
+Definir critérios objetivos para avaliar a naturalidade de algo criado por IA pode ser um desafio, pois envolve diferentes perspectivas e interpretações.
+A validação de resultados por humanos é essencial, mas pode ser complexa e demorada, dependendo da natureza do conteúdo gerado pela IA.
+4. Lidando com Preconceitos e Impactos Éticos:
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+A IA, como qualquer ferramenta, pode refletir e amplificar os preconceitos presentes nos dados com os quais é treinada.
+É crucial garantir que os modelos de IA sejam desenvolvidos e utilizados de forma ética e responsável, evitando a perpetuação de estereótipos e discriminação.
+A transparência e a responsabilidade no desenvolvimento e uso da IA são essenciais para construir a confiança do público e evitar potenciais impactos negativos.
